@@ -1,0 +1,3 @@
+python check.py build
+
+python check.py bdist_msi
